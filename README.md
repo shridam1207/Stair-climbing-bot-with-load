@@ -17,11 +17,14 @@ We started designing our bot from scratch keeping two points in mind <br>
    1. The Centre of Mass of the whole system must lie below or at a lower height acoording to the bot.<br>
    2. The whole bot at any time should be on two stairs only joining its end point or end to end.<br>
    
-So we decided the measurements of the bot keeping these two points in mind. Climbing wasn't a problem as we used 6 high torque motors that provided the necessary torque. The 90 degree V-joint leg which is used in the front is self adjustable and movable according to the terrain thus providing the necessary fluidity in movement of the bot. 
+So we decided the measurements of the bot keeping these two points in mind. Climbing wasn't a problem as we used 6 high torque motors that provided the necessary torque. The 90 degree V-joint leg which is used in the front is self adjustable and movable according to the terrain thus providing the necessary fluidity in movement of the bot. The width of the whole bot can be kept according to the final height of your bot so that the Centre of Mass comes down.
 
-<img src="images/initial1.jpg" width="300" > <img src="images/initial3.jpg" width="300" > <img src="images/initial4.jpg" width="300" >
+<img src="images/initial1.jpg" width="300" > <img src="images/initial3.jpg" width="300" > <img src="images/initial4.jpeg" width="300" >
 
+# Package Mechanism
+The load keeping mechanism is a kind of two axis gimbal that has a gyrosensor which keeps tne load horizontally at any time. Thus ensuring that the package doesn't fall when the whole bot is inclined during climbing of the stairs. The two servos ensure that it is movable around two axes.
 
+<img src="images/package1.jpg" width="400" > 
 
 # Benefits
 This project is definitely going to be highly beneficial for society when used in its full potential. Of course it can perform some usual tasks like carrying stuffs up and down but with some modifications it can be highly helpful for physically challenged people for moving up and down in buildings especially those which don’t have lifts installed in them which is generally not installed in smaller buildings.
@@ -32,3 +35,6 @@ This project is definitely going to be highly beneficial for society when used i
 2. A balancing plate has been installed which remains horizontal always even during the time of climbing stair thus keeping the load in place.<br>
 3. It is faster than its previous counterparts which used joint legs for climbing.
 
+# The Team
+This project was built under Robotics Club, IIT Guwahati by a team of seven students.
+<img src="images/team.jpg" width="400" >
