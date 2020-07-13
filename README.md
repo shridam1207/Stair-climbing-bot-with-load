@@ -37,4 +37,5 @@ This project is definitely going to be highly beneficial for society when used i
 
 # The Team
 This project was built under Robotics Club, IIT Guwahati by a team of seven students.
+
 <img src="images/team.jpg" width="400" >
